@@ -1,4 +1,5 @@
 module cme257Julia
+export cme257Julia_Sets
 
 abstract cme257function
 
